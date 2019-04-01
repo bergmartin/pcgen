@@ -298,7 +298,7 @@ Gwaeron's Belt							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Waist.Belt		COS
 Gwaeron's Boots							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Feet.Footwear		COST:6000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:109
 Hair Shirt of Suffering						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:3400	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:109
 Hand of the Oak Father						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Throat.Neckwear		COST:5000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:109
-Hat of Anonymity							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headwear		COST:12500	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:109
+Hat of Anonymity							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headwear		COST:12500	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:109	SPROP:This hat obscures you from detection, allowing you to blend into a crowd with ease. While you wear it, you are under a continuous nondetection effect and have a +5 bonus on Hide checks.	BONUS:SKILL|Hide|5|TYPE=Competence	
 Headband of Conscious Effort					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headwear		COST:2000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:109
 Headband of the Lorebinders					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headwear		COST:1600	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:110
 #EQMOD:CHARGED_ITEM_1|CHARGES[3]#CHARGES:1|3
