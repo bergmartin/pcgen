@@ -29,4 +29,7 @@ COPY --from=builder /app/build/install/pcgen/ .
 # Ensure the Linux launch script is executable
 RUN chmod +x bin/pcgen
 
+# Add persistent volume to store local config
+VOLUME ["/root/.pcgen"]
+
 ENTRYPOINT ["bin/pcgen"]
